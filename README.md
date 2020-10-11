@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 'zombie project' usually caused by no planning, no research
 
-![Java](http://img.shields.io/badge/-Java-0366d6?style=flat-square&logo=java&logoColor=ffffff)
+![Java](http://img.shields.io/badge/-Java-35c7ff?style=flat-square&logo=java&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
@@ -21,7 +21,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Intellij-IDE](http://img.shields.io/badge/-IDEA-4444ff?style=flat-square&logo=intellij%20idea&logoColor=ffffff)
 
 
 
