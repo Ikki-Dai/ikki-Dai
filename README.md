@@ -27,6 +27,7 @@
 
 ![Maven](http://img.shields.io/badge/-maven-460856?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Intellij-IDE](http://img.shields.io/badge/-IDEA-4444ff?style=flat-square&logo=intellij%20idea&logoColor=ffffff)
