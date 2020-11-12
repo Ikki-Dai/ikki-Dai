@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on **传音控股 (TRANSSION) | 2017.11 ~ 至今**
+- 🔭 I’m currently working on **传音控股 (TRANSSION) | 2017.11 ~ Now**
 - 🌱 I’m currently learning **DDD**
 - 👯 I’m looking to collaboration <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **JAVA**
