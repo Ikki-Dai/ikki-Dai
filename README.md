@@ -21,7 +21,7 @@
 
 ![Spring Boot](http://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
 ![Spring Cloud](http://img.shields.io/badge/-Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx)
+![Nginx](https://img.shields.io/badge/-Nginx-3FE669?style=flat-square&logo=nginx)
 
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![Mongo](http://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)
