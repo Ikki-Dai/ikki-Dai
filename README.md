@@ -29,7 +29,7 @@
 ![Maven](http://img.shields.io/badge/-maven-460856?style=flat-square&logo=Apache%20Maven&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins%20X)
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
