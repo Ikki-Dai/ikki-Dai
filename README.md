@@ -5,7 +5,7 @@
 
 <!--Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on **传音控股 (TRANSSION) | 2017.11 ~ Now**
+- 🔭 I’m currently working on **Wind | 2022.4**
 - 🌱 I’m currently learning **DDD**
 - 👯 I’m looking to collaboration <!-- - 🤔 I’m looking for help with ...-->
 - 💬 Ask me about **JAVA**
@@ -42,4 +42,4 @@
 
 
 #### 花旗金融信息 (CSTC) | 2015.7 ~ 2017.11
-#### 传音控股 (TRANSSION) | 2017.11 ~ now
+#### 传音控股 (TRANSSION) | 2017.12 ~ 2022.3
