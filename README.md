@@ -39,7 +39,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Intellij-IDE](http://img.shields.io/badge/-IDEA-4444ff?style=flat-square&logo=intellij%20idea&logoColor=ffffff)
 
-### experience
+### 经历
 
 #### CSTC | 2015 ~ 2017
 #### TRANSSION | 2017 ~ 2022
