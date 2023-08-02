@@ -44,3 +44,9 @@
 #### CSTC | 2015 ~ 2017
 #### TRANSSION | 2017 ~ 2022
 #### Win.d | 2022 ~ now
+
+
+### 参与的活动
+
+ - https://github.com/spring-projects/spring-framework/issues/24982
+ - https://github.com/redisson/redisson/issues/4002
